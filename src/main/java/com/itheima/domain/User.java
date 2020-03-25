@@ -5,5 +5,9 @@ public class User {
     String username;
     String password;
     String zhuxian;
+    String AAA;
+    String BBB;
+    String CCC;
+    String Ddd;
 
 }
